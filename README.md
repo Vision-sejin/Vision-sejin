@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sejin Park @Vision-sejin
-- 👀 I’m interested in Computer Vision called Vision AI. 
+- 👀 I’m interested in Computer Vision, Robot Vision( Vision AI). 
 - 🌱 Especially, I want to study Detection, Incremental Learning, Weakly Supervised Learning.
 - 📫 How to reach me : vision.sejin@gmail.com
 
