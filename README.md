@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sejin Park @Vision-sejin
 - 👀 I’m interested in Computer Vision, Vision AI. 
 - 🌱 Especially, I want to study Detection, Incremental Learning, Weakly Supervised Learning, Segmentation.
-- 📫 How to reach me : vision.sejin@gmail.com
+- 📫 How to reach me : vision.sejin@gmail.com, https://scholar.google.co.kr/citations?user=ORxvuSYAAAAJ&hl=ko&oi=sra
 
 <!---
 Vision-sejin/Vision-sejin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
