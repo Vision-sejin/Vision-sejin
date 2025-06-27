@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Sejin Park @Vision-sejin
-- 👀 I’m interested in Computer Vision, Vision AI. 
-- 🌱 Especially, I want to study Detection, Incremental Learning, Weakly Supervised Learning, Segmentation.
-- 📫 How to reach me : vision.sejin@gmail.com, https://scholar.google.co.kr/citations?user=ORxvuSYAAAAJ&hl=ko&oi=sra
+I am a Ph.D. student in the Deep Image Processing Lab, advised by Prof. Seung-Won Jung. I am currently pursuing the Ph.D. degree in Electrical Engineering at Korea University in Seoul, Korea.
+https://sites.google.com/view/sejinn/
 
 <!---
 Vision-sejin/Vision-sejin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
